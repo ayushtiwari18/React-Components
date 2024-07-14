@@ -1,6 +1,5 @@
 Here is a detailed `README.md` file for the [React-Components](https://github.com/ayushtiwari18/React-Components) repository:
 
-```markdown
 # React Components
 
 A collection of reusable and customizable React components to streamline your development process.
